@@ -1,0 +1,36 @@
+.ResearchCapabalitiesText{
+width: 991px;
+height: 76px;
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+color: #000000;
+}
+
+.ResearchCapablities-Div{
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
+
+.RCBoxOne-Div{
+width: 361px;
+height: 379px;
+background: #EBFFD8;
+border-radius: 5px;
+}
+
+.ResearchCapablitiesTotalDiv{
+    display: flex;
+    justify-content: left;
+}
+
+.AlignmentDiv{
+    margin-left: 50px;
+    padding-left: 72px;
+    padding-right: 73px;
+}
